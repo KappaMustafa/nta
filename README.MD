@@ -10,5 +10,6 @@
 
 
 ## Links
+* Click [HERE](https://github.com/KappaMustafa) for my Github
 * Click [HERE](https://github.com/KappaMustafa/nta.git) for my repository
 * Click [HERE](https://note-taking-app-ma.herokuapp.com/notes) for my deployed heroku app
