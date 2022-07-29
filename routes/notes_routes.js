@@ -25,9 +25,7 @@ notes_router.get('/notes', (req, res) => {
 
     fs.readFile('./db/db.json', (err, data) => {
         if (err) console.log(err);
-
         let dbData = JSON.parse(data);
-
         res.send(dbData);
     })
 });
